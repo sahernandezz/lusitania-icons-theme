@@ -28,11 +28,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/sahernandezz/lusitania-icon-theme.git"
+    "url": "https://github.com/sahernandezz/lusitania-icons-theme.git"
   },
-  "homepage": "https://github.com/sahernandezz/lusitania-icon-theme#readme",
+  "homepage": "https://github.com/sahernandezz/lusitania-icons-theme#readme",
   "bugs": {
-    "url": "https://github.com/sahernandezz/lusitania-icon-theme/issues"
+    "url": "https://github.com/sahernandezz/lusitania-icons-theme/issues"
   },
   "galleryBanner": {
     "color": "#0d1620",
@@ -43,7 +43,7 @@
       {
         "id": "lusitania-icons",
         "label": "Lusitania Icons",
-        "path": "./lusitania-icon-theme.json"
+        "path": "./lusitania-icons-theme.json"
       }
     ]
   }

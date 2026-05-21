@@ -4,7 +4,7 @@ Build script for the Lusitania Icon Theme.
 
 Generates:
   - icons/*.svg                : all file & folder SVG icons (32x32)
-  - lusitania-icon-theme.json  : the VS Code icon theme mapping
+  - lusitania-icons-theme.json : the VS Code icon theme mapping
 
 Design language
 ---------------
@@ -2233,7 +2233,7 @@ def write_all() -> tuple[int, int]:
         with open(os.path.join(ICONS_DIR, f"{name}.svg"), "w", encoding="utf-8") as f:
             f.write(content)
 
-    theme_path = os.path.join(ROOT, "lusitania-icon-theme.json")
+    theme_path = os.path.join(ROOT, "lusitania-icons-theme.json")
     with open(theme_path, "w", encoding="utf-8") as f:
         json.dump(THEME, f, indent=2, ensure_ascii=False)
         f.write("\n")
