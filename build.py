@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Build script for the Lusitania Icon Theme.
+Build script for the Lusitania Icons Theme.
 
 Generates:
   - icons/*.svg                : all file & folder SVG icons (32x32)

@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="icon.png" alt="Lusitania Icon Theme" width="128" height="128" />
+<img src="icon.png" alt="Lusitania Icons Theme" width="128" height="128" />
 
-# Lusitania Icon Theme
+# Lusitania Icons Theme
 
 A deep-sea file & folder icon theme for VS Code & Cursor.
 Inspired by IntelliJ *Atom Material Icons*. Recoloured with the Lusitania palette.
@@ -51,7 +51,7 @@ Closed and open variants side-by-side.
 
 ## Install
 
-**Marketplace** — search `Lusitania Icon Theme` → *Install* → `Cmd/Ctrl+Shift+P` → *File Icon Theme* → **Lusitania Icons**.
+**Marketplace** — search `Lusitania Icons Theme` → *Install* → `Cmd/Ctrl+Shift+P` → *File Icon Theme* → **Lusitania Icons**.
 
 **`.vsix`**
 ```sh
