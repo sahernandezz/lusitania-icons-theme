@@ -55,7 +55,7 @@ Closed and open variants side-by-side.
 
 **`.vsix`**
 ```sh
-code --install-extension lusitania-icon-theme-1.0.0.vsix
+code --install-extension lusitania-icons-theme-1.0.0.vsix
 ```
 
 **From source**
