@@ -17,6 +17,7 @@ ehthumbs.db
 # --- Build / source-of-truth scripts (not needed at runtime) ---
 build.py
 build_previews.py
+_clip_png.py
 __pycache__/**
 **/__pycache__/**
 *.pyc
