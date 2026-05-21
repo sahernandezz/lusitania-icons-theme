@@ -19,23 +19,25 @@ Pairs with the [Lusitania colour theme](https://github.com/sahernandezz/lusitani
 
 ## Languages
 
-<p align="center"><img src="previews/languages.png" alt="Language icons" width="720" /></p>
+<p align="center"><img src="previews/languages.png" alt="Language icons" width="640" /></p>
 
-## Data, config & dev-ops
+## Data, config, ops
 
-<p align="center"><img src="previews/data-ops.png" alt="Data, config and dev-ops icons" width="720" /></p>
+<p align="center"><img src="previews/data-ops.png" alt="Data, config and ops icons" width="640" /></p>
 
-## Build tools & test runners
+## Build and tests
 
-<p align="center"><img src="previews/tooling.png" alt="Build tools and test runners" width="720" /></p>
+<p align="center"><img src="previews/tooling.png" alt="Build tools and test runners" width="640" /></p>
 
 ## Special files
 
-<p align="center"><img src="previews/files.png" alt="Special files" width="720" /></p>
+<p align="center"><img src="previews/files.png" alt="Special files" width="640" /></p>
 
-## Folders (closed → open)
+## Folders
 
-<p align="center"><img src="previews/folders.png" alt="Folders, closed and open" width="720" /></p>
+Closed and open variants side-by-side.
+
+<p align="center"><img src="previews/folders.png" alt="Folders, closed and open" width="640" /></p>
 
 ## Coverage
 
